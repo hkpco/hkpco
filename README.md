@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm hkpco (Chanam Park)
 
-<!--
-**hkpco/hkpco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Software_Engineering-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Identity-hkpco-black?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+- **Name:** Chanam Park (박찬암)
+- **Nickname:** hkpco
+- **Main Domain:** [hkpco.kr](https://hkpco.kr)
+- **Interest:** Automation / System Architecture
+
+## 🚀 Projects & Links
+- **Personal Web:** [hkpco.kr](https://hkpco.kr)
+- **GitHub:** [github.com/hkpco](https://github.com/hkpco)
+
+---
+
+### 🛠 Tech Stack (Optional)
+> C, Assembly
+---
+
+*“Good artists copy, great artists steal.”*
